@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CA6180&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast;GSSoC+2026+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=CA6180&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast🚀" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Pise</h1>
@@ -16,8 +16,7 @@
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
 - 💡 Passionate about building real-world AI solutions  
 - 🔭 Currently working on AI, OCR & Open Source projects  
-- 🌱 Exploring Machine Learning, Computer Vision & AI Agents  
-- 🎯 GSSoC'26 Aspirant  
+- 🌱 Exploring Machine Learning, Computer Vision & AI Agents   
 
 ---
 
