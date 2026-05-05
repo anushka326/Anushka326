@@ -1,7 +1,7 @@
 <!-- ===================== COVER ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/main/new cover img.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/main/cover_image.png" width="100%" />
 </p>
 
 <!-- Animated Typing -->
@@ -52,86 +52,80 @@
 
 ---
 
+# 🚀 Tech Badges
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/ML-green)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Open Source](https://img.shields.io/badge/Open%20Source-orange)
+![AI](https://img.shields.io/badge/AI-Powered-purple)
+
+---
+
 ## 🚀 Featured Projects
 
-### ✈️ AeroSlot Scheduler (AI + Systems Engineering)
-AI-powered runway scheduling system that optimizes aircraft landing and takeoff operations using machine learning and advanced scheduling algorithms.
-
-- Intelligent delay prediction using ML models  
-- Multi-algorithm scheduling (priority, emergency handling, conflict avoidance)  
-- Built with C++, Python (ML), and React dashboard  
+### ✈️ AeroSlot Scheduler
+- Intelligent runway scheduling using ML  
+- Multi-algorithm optimization  
+- Built with C++, Python, React  
 
 🔗 https://github.com/Anushka326/aeroslot-scheduler  
 
 ---
 
-### 🧠 Image Captioning System (AI for Accessibility)
-An AI-based system that generates descriptive captions for images to assist visually impaired users.
-
-- Combines Computer Vision + NLP for caption generation  
-- Integrated Text-to-Speech for real-time audio output  
-- Built using Python, TensorFlow, and Flask  
+### 🧠 Image Captioning System
+- CV + NLP based caption generation  
+- TTS integration  
 
 ---
 
-### 🏥 SymptoGuard AI (Healthcare Assistant)
-An intelligent system that analyzes user symptoms and provides structured health insights using AI.
-
-- Symptom-based condition prediction logic  
-- Focus on responsible AI (non-diagnostic recommendations)  
-- Real-world healthcare use case  
+### 🏥 SymptoGuard AI
+- Symptom-based prediction system  
+- Responsible AI  
 
 🔗 https://github.com/Anushka326/Symptoms_guard_agent  
 
 ---
 
-### 💰 SnapBudget (OCR Expense Tracker)
-Smart expense tracking application that extracts and categorizes receipt data using OCR.
-
-- Automated data extraction using Tesseract OCR  
-- Expense categorization and tracking dashboard  
-- Built with React and TypeScript  
+### 💰 SnapBudget
+- OCR-based expense tracking  
+- React + TypeScript  
 
 ---
 
-### 📊 NovaExpense (Finance Management)
-A digital expense management system for tracking and analyzing personal finances.
-
-- Tracks transactions and spending patterns  
-- Provides structured financial insights  
-- Currently being enhanced with advanced features  
+### 📊 NovaExpense
+- Finance tracking system  
 
 🔗 https://github.com/Anushka326/NovaExpense  
 
 ---
 
-# 🚀 GitHub Insights
+# 🚀 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka326&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka326&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushka326&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Anushka326&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka326&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 🚀 Contribution Activity 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka326&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushka326&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
+# 🚀 Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushka326/Anushka326/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushka326&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -139,11 +133,11 @@ A digital expense management system for tracking and analyzing personal finances
 # 🚀 GitHub Status
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushka326&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushka326&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
@@ -158,14 +152,24 @@ A digital expense management system for tracking and analyzing personal finances
 
 # 🚀 Connect
 
-📧 anushkanpise@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/anushka-p-978a8b327  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushka-p-978a8b327">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Anushka326">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/>
+  </a>
+  <a href="mailto:anushkanpise@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-# 🚀  Building impactful solutions with AI 🚀
+# 🚀 Building impactful solutions with AI 🚀
 
+---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anushka326&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Anushka326&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
