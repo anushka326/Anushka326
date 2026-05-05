@@ -1,113 +1,159 @@
+<!-- ===================== HEADER / COVER ===================== -->
+
+<p align="center">
+  <img src="./coverimg.png" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+AI+Powered+Solutions+🤖;Open+Source+Contributor+🚀;GSSoC+2026+Contributor+🔥" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anushka Pise</h1>
+<h3 align="center">🚀 AI Developer | Problem Solver | Open Source Enthusiast</h3>
+
+---
+
 ## 🌐 Portfolio
 🔗 https://self-portfolio-rho-ruby.vercel.app
 
 ---
 
+# 🚀 🧠 About Me
+
+✨ Turning ideas into **AI-powered real-world solutions**  
+💡 Passionate about solving meaningful problems with technology  
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science  
+- 🤖 Working on AI, OCR & intelligent systems  
+- 🌱 Exploring AI Agents, Computer Vision & NLP  
+- 🔥 Active Open Source Contributor  
+
+---
+
+# 🏆 🚀 GSSoC 2026 Journey
+
+✨ Selected Contributor at **GirlScript Summer of Code 2026**
+
+- 💻 Contributing to Open Source & AI Agent projects  
+- 🧠 Learning real-world collaboration & code practices  
+- 🚀 Building impactful solutions with community  
+
+> 💡 *Goal: Make meaningful contributions & grow as a developer*
+
+---
+
+# ⚡ 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CA6180&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Solutions+🤖;Open+Source+Enthusiast🚀" />
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,react,ts,tailwind,git,github,vscode,mysql,mongodb" />
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Anushka Pise</h1>
-<h3 align="center">AI & Data Science Student | Building AI Solutions 🤖</h3>
-
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 💡 Passionate about building real-world AI solutions  
-- 🔭 Currently working on AI, OCR & Open Source projects  
-- 🌱 Exploring Machine Learning, Computer Vision & AI Agents   
-
----
-
-## 🛠️ Tech Stack
-- 💻 Languages: Python, JavaScript, C++  
-- 🤖 AI/ML: TensorFlow, OpenCV, Scikit-learn  
-- 🌐 Web: React, TypeScript  
-- 🛠️ Tools: Git, GitHub, VS Code, Jupyter  
-- 🗄️ Databases: MySQL, MongoDB  
-
----
-
-## 🔥 Featured Projects
+# 🔥 💻 Featured Projects
 
 ### 🧠 SymptoGuard AI 🏥
-> Intelligent healthcare assistant for symptom analysis  
+> Intelligent healthcare assistant  
 
-- 🤖 Analyzes user symptoms to suggest possible medical conditions  
-- 📊 Provides structured outputs with recommendations  
-- ⚠️ Focuses on responsible AI (non-diagnostic support)  
-- 💡 Applies AI in real-world healthcare scenarios  
+- 🤖 Symptom-based condition analysis  
+- 📊 Structured insights & suggestions  
+- ⚠️ Responsible AI (non-diagnostic)  
 
-🔗 **[View Project](https://github.com/Anushka326/Symptoms_guard_agent)**
-
----
-
-### 🧠 Image Captioning System 👁️‍🗨️
-> AI-powered accessibility solution  
-
-- 🖼️ Generates captions for images using Computer Vision + NLP  
-- 🔊 Integrated Text-to-Speech for visually impaired users  
-- ⚡ Built using CNN + NLP + Flask  
+🔗 https://github.com/Anushka326/Symptoms_guard_agent
 
 ---
 
-### 💰 SnapBudget (OCR Expense Tracker) 📊
-> Smart expense tracking using OCR  
+### 👁️‍🗨️ Image Captioning System
+> Accessibility-focused AI solution  
 
-- 🧾 Extracts data from receipts using Tesseract OCR  
-- 📉 Automatically categorizes expenses  
-- ⚡ Built with React + TypeScript  
+- 🖼️ Caption generation (CNN + NLP)  
+- 🔊 TTS for visually impaired users  
 
+---
+
+### 💰 SnapBudget (OCR Tracker)
+> Smart expense tracker  
+
+- 🧾 OCR-based receipt scanning  
+- 📉 Expense categorization  
 
 ---
 
 ### 📊 NovaExpense 💼
-> Digital expense management system  
+> Expense management system  
 
-- 📌 Tracks and organizes financial transactions  
-- 📈 Helps monitor spending patterns  
-- 🔧 Currently being improved with new features  
+- 📌 Tracks financial data  
+- 📈 Insights & analytics  
 
-🔗 **[View Project](https://github.com/Anushka326/NovaExpense)**
+🔗 https://github.com/Anushka326/NovaExpense
 
 ---
 
-## 📊 GitHub Stats
+# 📊 🚀 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka326&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka326&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anushka326&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anushka-p-978a8b327  
-- 💻 GitHub: https://github.com/Anushka326
-- 🌐 Email: anushkanpise@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushka326&theme=react-dark" />
+</p>
 
 ---
 
-## ✨ Fun Touch
-✨ Turning ideas into AI-powered solutions  
-🚀 Learning something new every day  
-💡 Building projects that actually solve problems  
+# 🎯 💡 What I'm Currently Doing
+
+- 🤖 Exploring AI Agents  
+- 🚀 Contributing to Open Source  
+- 🧠 Building real-world AI projects  
+- 📈 Improving problem-solving skills  
 
 ---
 
-⭐ *"Building impactful solutions with AI & growing every day"* 🚀
+# ✨ 🎨 Fun + Creative Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 
 ---
 
-### 🧩 Tech Badges
+# 🌐 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushka-p-978a8b327">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/Anushka326">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+📧 anushkanpise@gmail.com  
+
+---
+
+# ⭐ 💬 Quote
+
+> *"Building impactful solutions with AI & learning every day 🚀"*
+
+---
+
+# 🧩 Tech Badges
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+![AI](https://img.shields.io/badge/AI-ML-green)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![Open Source](https://img.shields.io/badge/Open%20Source-orange)
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anushka326&label=Profile%20Views&color=0e75b6&style=flat" />
