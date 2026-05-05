@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/main/coverimg.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/main/new cover img.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+AI+Powered+Solutions;Open+Source+Contributor;GSSoC+2026+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#ff69b4&size=28&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+AI+Powered+Solutions;Open+Source+Contributor;GSSoC+2026+Contributor" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anushka Pise</h1>
@@ -20,23 +20,23 @@
 
 # 🚀 About Me
 
-🚀 Turning ideas into AI-powered solutions  
-🚀 Passionate about solving real-world problems  
+- ✦ Turning ideas into AI-powered solutions  
+- ✦ Passionate about solving real-world problems  
 
-🚀 B.Tech AI & Data Science  
-🚀 Working on AI, OCR & intelligent systems  
-🚀 Exploring AI Agents, CV & NLP  
-🚀 Active Open Source Contributor  
+- ✦ B.Tech AI & Data Science  
+- ✦ Working on AI, OCR & intelligent systems  
+- ✦ Exploring AI Agents, Computer Vision & NLP  
+- ✦ Active Open Source Contributor    
 
 ---
 
 # 🚀 GSSoC 2026 Journey
 
-🚀 Selected Contributor at GirlScript Summer of Code  
+- ✦ Selected Contributor at GirlScript Summer of Code  
 
-🚀 Working on Open Source & AI projects  
-🚀 Learning real-world collaboration  
-🚀 Building impactful solutions  
+- ✦ Working on Open Source & AI projects  
+- ✦ Learning real-world collaboration  
+- ✦ Building impactful solutions  
 
 ---
 
@@ -51,29 +51,29 @@
 # 🚀 Featured Projects
 
 ### 🚀 SymptoGuard AI  
-- 🚀 Symptom-based condition analysis  
-- 🚀 Structured insights  
-- 🚀 Responsible AI  
+- ✦ Symptom-based condition analysis  
+- ✦ Structured insights  
+- ✦ Responsible AI  
 
 🔗 https://github.com/Anushka326/Symptoms_guard_agent  
 
 ---
 
 ### 🚀 Image Captioning System  
-- 🚀 AI-based caption generation  
-- 🚀 TTS integration  
+- ✦ AI-based caption generation  
+- ✦ TTS integration  
 
 ---
 
 ### 🚀 SnapBudget  
-- 🚀 OCR-based receipt scanning  
-- 🚀 Expense categorization  
+- ✦ OCR-based receipt scanning  
+- ✦ Expense categorization  
 
 ---
 
 ### 🚀 NovaExpense  
-- 🚀 Expense tracking  
-- 🚀 Analytics  
+- ✦ Expense tracking  
+- ✦ Analytics  
 
 🔗 https://github.com/Anushka326/NovaExpense  
 
@@ -89,13 +89,15 @@
 <img src="https://streak-stats.demolab.com?user=Anushka326&theme=tokyonight&hide_border=true" />
 </p>
 
+https://github.com/Anushka326/Anushka326/blob/output/github-contribution-grid-snake.svg
+
 ---
 
 # 🚀 What I'm Doing
 
-🚀 Exploring AI Agents  
-🚀 Contributing to Open Source  
-🚀 Building real-world projects  
+- ✦ Exploring AI Agents  
+- ✦ Contributing to Open Source  
+- ✦ Building real-world projects  
 
 ---
 
