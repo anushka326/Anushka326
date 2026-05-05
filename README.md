@@ -117,12 +117,17 @@
 
 ---
 
-# ✨ 🎨 Fun + Creative Section
+# ✨ 🎨 Github Status
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
+![snake gif](https://github.com/Anushka326/Anushka326/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushka326&theme=tokyonight&no-frame=true" />
+</p>
 ---
 
 # 🌐 🤝 Connect With Me
@@ -140,10 +145,11 @@
 
 ---
 
-# ⭐ 💬 Quote
+# ⭐ 💬 Building impactful solutions with AI & learning every day 🚀
 
-> *"Building impactful solutions with AI & learning every day 🚀"*
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 ---
 
 # 🧩 Tech Badges
