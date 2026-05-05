@@ -114,15 +114,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushka326&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-# 🚀 Contribution Activity
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushka326&theme=tokyonight" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/output/github-contribution-grid-snake.svg" />
@@ -150,7 +144,7 @@
 
 ---
 
-# 🚀 Connect
+# 🚀 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushka-p-978a8b327">
@@ -167,8 +161,6 @@
 ---
 
 # 🚀 Building impactful solutions with AI 🚀
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anushka326&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
