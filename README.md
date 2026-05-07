@@ -31,16 +31,7 @@
 ▸ B.Tech AI & Data Science  
 ▸ Working on AI, OCR & intelligent systems  
 ▸ Exploring AI Agents, CV & NLP  
-▸ Active Open Source Contributor  
-
----
-
-# 🚀 GSSoC 2026 Journey
-
-▸ Selected Contributor at GirlScript Summer of Code  
-▸ Contributing to Open Source & AI projects  
-▸ Learning real-world collaboration  
-▸ Building impactful solutions  
+▸ Active Open Source Contributor    
 
 ---
 
