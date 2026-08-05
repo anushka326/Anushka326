@@ -46,13 +46,21 @@ An AI & Data Science undergraduate passionate about building intelligent softwar
 ## 🚀 Currently Exploring
 
 🤖 Generative AI & Large Language Models (LLMs)
+
 🧩 AI Agents & Multi-Agent Systems
+
 🔍 Retrieval-Augmented Generation (RAG)
+
 ⚡ Backend Development & API Engineering
+
 🏗️ System Design & Scalable Software Architectures
+
 ☁️ Cloud Computing, Deployment & DevOps
+
 🛠️ Software Engineering Best Practices
+
 📈 Advanced Data Structures & Algorithms
+
 🔐 Secure & Production-Ready AI Applications
 
 ---
