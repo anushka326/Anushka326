@@ -4,11 +4,6 @@
   <img src="https://raw.githubusercontent.com/Anushka326/Anushka326/main/cover_image.png" width="100%" />
 </p>
 
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+AI+Powered+Solutions;Open+Source+Contributor;GSSoC+2026+Contributor" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Anushka Pise</h1>
 <h3 align="center">🚀AI Engineer | Software Engineer | Full Stack Developer | AI & Data Science Undergraduate from India 🇮🇳</h3>
 
@@ -72,6 +67,107 @@ An AI & Data Science undergraduate passionate about building intelligent softwar
 ---
 
 > **"I don't just learn technologies—I understand them, engineer solutions with them, and build software that creates real value."**
+
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ JanSathi AI
+> **AI-Powered Government Scheme Assistant**
+
+🤖 An intelligent platform that simplifies access to government welfare schemes through AI-driven eligibility analysis, smart recommendations, and easy-to-understand explanations.
+
+**⚙️ Tech Stack:**  
+React • Tailwind CSS • FastAPI • Python • MongoDB • Gemini AI • RAG
+
+🔗 **Repository:**  
+https://github.com/anushka326/JanSathiAi
+
+🌐 **Live Demo:**  
+*Coming Soon*
+
+</td>
+
+<td width="50%">
+
+### 💼 IntelliHire
+> **AI Hiring Intelligence Platform**
+
+📄 An AI-powered recruitment platform that performs semantic resume analysis, intelligent candidate ranking, skill extraction, and explainable hiring recommendations.
+
+**⚙️ Tech Stack:**  
+React • FastAPI • Python • MongoDB • FAISS • Sentence Transformers • Gemini API
+
+🔗 **Repository:**  
+https://github.com/anushka326/IntelliHire
+
+🌐 **Live Demo:**  
+*Coming Soon*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌱 CarbonWise AI
+> **AI-Powered Sustainability Platform**
+
+♻️ A smart sustainability platform that helps users monitor their carbon footprint and provides AI-generated recommendations for adopting eco-friendly lifestyle habits.
+
+**⚙️ Tech Stack:**  
+React • Flask • Python • MongoDB • Gemini AI
+
+🔗 **Repository:**  
+https://github.com/anushka326/CarbonWise-AI
+
+🌐 **Live Demo:**  
+*Coming Soon*
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+> **Developer Portfolio Website**
+
+💻 A modern, responsive portfolio showcasing my projects, technical skills, research work, certifications, and developer journey with a clean UI and smooth user experience.
+
+**⚙️ Tech Stack:**  
+React • Vite • Tailwind CSS • Framer Motion
+
+🔗 **Repository:**  
+https://github.com/anushka326/self-portfolio
+
+🌐 **Live Website:**  
+https://self-portfolio-rho-ruby.vercel.app/
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 📚 AI Document Retrieval using RAG
+> **Retrieval-Augmented Generation (RAG) Application**
+
+🔍 An intelligent document question-answering system that combines vector embeddings, semantic search, and Large Language Models to retrieve relevant information and generate context-aware responses.
+
+**⚙️ Tech Stack:**  
+Python • FastAPI • LangChain • FAISS • Gemini AI • Vector Database
+
+🔗 **Repository:**  
+https://github.com/anushka326/AI-Document-Retrieval-using-RAG
+
+🌐 **Live Demo:**  
+https://texta-eight.vercel.app/
+
+</td>
+</tr>
+</table>
 
 
 <!-- Snake Game Repo View -->
