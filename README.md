@@ -99,4 +99,6 @@ An AI & Data Science undergraduate passionate about building intelligent softwar
 ![](https://github-contributor-stats.vercel.app/api?username=anushka326&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anushka326&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anushka326&label=PROFILE+VIEWS&style=for-the-badge&color=6f42c1" alt="Profile Views" />
+</p>
