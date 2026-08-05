@@ -125,7 +125,7 @@ React • Flask • Python • MongoDB • Gemini AI
 https://github.com/anushka326/CarbonWise-AI
 
 🌐 **Live Demo:**  
-*Coming Soon*
+https://carbon-wise-ai-six.vercel.app/
 
 </td>
 
